@@ -5,12 +5,28 @@
     <link>https://pangxueyu233.github.io/talk/</link>
       <atom:link href="https://pangxueyu233.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pangxueyu233.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://pangxueyu233.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Dana-Farber/Harvard Cancer Center April 13th seminar</title>
+      <link>https://pangxueyu233.github.io/talk/msk-science-spotlight/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://pangxueyu233.github.io/talk/msk-science-spotlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSK Science Spotlight</title>
+      <link>https://pangxueyu233.github.io/talk/dfhcc_c_seminar_series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pangxueyu233.github.io/talk/dfhcc_c_seminar_series/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
